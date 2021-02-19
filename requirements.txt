@@ -1,4 +1,4 @@
 IPython
 notebook
 argparse
-git clone git@github.com:dominicjt/manimlib.git
+-e git@github.com:dominicjt/manimlib.git
